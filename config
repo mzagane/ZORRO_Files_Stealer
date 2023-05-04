@@ -1,0 +1,12 @@
+//Local Disks : (0 : no disk) (1 : office files) (2 : image files) (3: videos files) (4 : executable files) (5 : db files) (6 : all files) (7 : skip system files & dirs)
+67
+//Removable Disks  : (0 : no disk) (1 : office files) (2 : image files) (3: videos files) (4 : executable files) (5 : db files) (6 : all files) (7 : skip system files & dirs)
+67
+//CDs  : (0 : no disk) (1 : office files) (2 : image files) (3: videos files) (4 : executable files) (5 : db files) (6 : all files) (7 : skip system files & dirs)
+0
+// des dir name
+tmp4444
+// enabled
+1
+
+
